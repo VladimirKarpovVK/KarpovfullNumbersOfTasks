@@ -1,2 +1,0 @@
-# KarpovfullNumbersOfTasks
-Created with CodeSandbox
